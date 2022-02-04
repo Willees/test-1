@@ -11,4 +11,4 @@
 
 !이미지연습(http://lcdplus.co.kr/product/detail.html?product_no=160347&cate_no=1&display_group=3)
 
-![엘레베이터 17인치 스텐레스 모니터](./
+![엘레베이터 17인치 스텐레스 모니터](./images/17inch.jpg)
